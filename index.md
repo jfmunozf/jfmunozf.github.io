@@ -1,3 +1,3 @@
 # Aticles
 ***
-[Java with Prolog configuration](javaprolog.md)
+* [Java with Prolog configuration](javaprolog.md)
