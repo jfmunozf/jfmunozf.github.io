@@ -1,2 +1,2 @@
-# Prueba de MarkDown
+# Java and Prolog article
 ***
