@@ -1,13 +1,6 @@
 # Java and Prolog article
 ***
 
+### Introduction
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris luctus vestibulum urna, sed tincidunt massa pellentesque nec. Praesent eu ante a diam interdum finibus. Cras tristique scelerisque dignissim. Ut finibus purus eu tortor mattis dapibus. Vivamus sagittis dapibus rhoncus. Nunc eu felis placerat, cursus diam eget, ullamcorper diam. Nam vulputate felis ultricies, dignissim lectus non, tristique arcu. Ut et malesuada libero. Donec purus nulla, pulvinar sit amet nulla et, aliquet rutrum mauris. Maecenas pellentesque faucibus enim, ut luctus lorem rhoncus nec.
-
-Cras sagittis nibh et dui consectetur viverra. Sed massa metus, pharetra vel massa ac, fermentum dignissim erat. Curabitur ut justo augue. Sed ac mauris nec nisl faucibus pretium. Aliquam erat volutpat. Aenean ac lectus tincidunt, accumsan orci quis, aliquam ipsum. Nunc urna dui, vehicula in neque vel, posuere pulvinar nulla. Aenean euismod sagittis nunc, ut ultrices dolor scelerisque eget. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec sed mollis justo, in accumsan nulla. Integer et efficitur diam. Vivamus sed blandit magna. Aliquam suscipit purus viverra blandit convallis. Integer placerat, quam nec volutpat convallis, dui lacus cursus magna, non accumsan risus lacus nec risus. Fusce non condimentum nulla, et dapibus neque.
-
-Fusce tempor sem et sapien bibendum egestas. Aenean non ornare ante. Integer eleifend libero vitae nisi fringilla, vel tempor neque viverra. Sed nec nulla diam. Pellentesque et ante ex. Duis rutrum mauris at libero porta, eget rhoncus quam dictum. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aenean sed lorem quis augue iaculis iaculis eget eu urna. Vestibulum rutrum suscipit turpis id convallis. Maecenas in consectetur ex. Phasellus a dolor nisl. Nam ornare libero at volutpat dapibus. Quisque pharetra eros sed ex lacinia, in aliquam lectus mollis. Maecenas id nulla laoreet, posuere ex id, interdum risus.
-
-Mauris commodo, libero sodales placerat varius, nulla sem dapibus metus, id consequat erat odio eu orci. Pellentesque ut porta lorem. Curabitur accumsan, nisi non mollis pellentesque, nunc ante iaculis purus, at efficitur sapien diam ut ante. Etiam quis tincidunt ex. Phasellus odio eros, finibus a nisi eget, ultricies tristique elit. Sed ut pretium est. In tristique posuere urna quis posuere.
-
-Vestibulum sit amet tellus vestibulum, tempor orci eu, pretium sem. Nullam interdum accumsan ligula a sollicitudin. Donec pellentesque pellentesque lacinia. Cras pulvinar rutrum metus, eu pharetra quam fermentum sed. Vestibulum eget purus a libero auctor molestie vitae sit amet arcu. Aenean bibendum dapibus bibendum. Aliquam est urna, bibendum nec felis id, ultrices blandit enim. Donec sodales varius enim, pretium feugiat augue faucibus id. Curabitur in venenatis ex. 
+This article was written to serve as guide who wants write programs using Prolog as backend component...
