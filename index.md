@@ -1,3 +1,3 @@
-# Test en markdown
+# Aticles
 ***
-[Link](javaprolog.md)
+[Java with Prolog configuration](javaprolog.md)
